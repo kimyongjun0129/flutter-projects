@@ -29,4 +29,4 @@ POMO 타이머 제작
 
 ![image](https://github.com/user-attachments/assets/30e12cad-fa96-4948-a2b4-220d7345ea73)
 
-넷플릭스 간단 제작
+영화 소개 사이트 간단 제작
